@@ -67,17 +67,54 @@ def sort_ckpt_olmo3(checkpoints: Sequence[str]) -> List[str]:
 
 
 def logspace_sample_checkpoints(checkpoints: Sequence[str], num_samples: int) -> List[str]:
-    """Log-space sample from an already-sorted checkpoint list."""
-    if num_samples <= 0:
+    """Log-space sample from an already-sorted checkpoint list.
+
+    Notes:
+        A naive `np.logspace(...)->round()->unique` approach can collapse to fewer
+        than `num_samples` indices due to duplicates (especially near the start
+        of the curve). That, in turn, breaks expectations around sharding (e.g.
+        "100 checkpoints" ends up being 75).
+
+        This implementation guarantees returning exactly `num_samples` unique
+        checkpoints whenever `len(checkpoints) >= num_samples`.
+    """
+    if num_samples <= 0 or len(checkpoints) == 0:
         return []
-    if len(checkpoints) == 0:
-        return []
-    if num_samples >= len(checkpoints):
+
+    n = len(checkpoints)
+    if num_samples >= n:
         return list(checkpoints)
-    indices = np.unique(
-        np.round(np.logspace(0, np.log10(len(checkpoints)), num_samples)).astype(int) - 1
-    )
-    return [checkpoints[i] for i in indices]
+
+    # Oversample a geometric progression, then pick evenly across unique indices.
+    oversample = max(num_samples * 10, num_samples + 50)
+    raw = np.geomspace(1, n, oversample)
+    cand = np.unique(np.clip(np.rint(raw).astype(int) - 1, 0, n - 1))
+
+    # If uniqueness is still too low (can happen for small n), mix in linear indices.
+    if cand.size < num_samples:
+        lin = np.unique(np.rint(np.linspace(0, n - 1, num_samples)).astype(int))
+        cand = np.unique(np.concatenate([cand, lin]))
+
+    if cand.size < num_samples:
+        # Ultimate fallback: just use the full range.
+        cand = np.arange(n, dtype=int)
+
+    pos = np.rint(np.linspace(0, cand.size - 1, num_samples)).astype(int)
+    idx = np.unique(cand[pos])
+
+    # Ensure we return exactly num_samples unique indices.
+    if idx.size < num_samples:
+        remaining = np.setdiff1d(np.arange(n, dtype=int), idx, assume_unique=False)
+        need = num_samples - idx.size
+        idx = np.sort(np.concatenate([idx, remaining[:need]]))
+
+    if idx.size != num_samples:
+        # This should not happen; keep it loud.
+        raise RuntimeError(
+            f"Failed to sample {num_samples} unique checkpoints from n={n} (got {idx.size})."
+        )
+
+    return [checkpoints[int(i)] for i in idx]
 
 # Extract embeddings
 def get_layerwise_sentence_embeddings(
@@ -534,6 +571,7 @@ if __name__ == "__main__":
         ckpt_names = select_checkpoints(args.model_name, all_ckpt_names, args.num_checkpoints)
 
     # Optional: shard checkpoints across multiple parallel jobs.
+    LOG.info("Total checkpoints selected: %d", len(ckpt_names))
     if args.num_shards and args.num_shards > 1:
         ckpt_names = shard_items(
             ckpt_names,
