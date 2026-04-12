@@ -1,0 +1,860 @@
+Sentence:  i feel so <u>blue</u> today
+Definition:  used to describe depressed in spirits
+Annotation: depressed
+
+
+Sentence:   If I can get a commission for a royal portrait, I'll <u>be in the money.</u>
+Definition:  to suddenly have a lot of money, especially when you did not expect it.
+Annotation: suddenly have a lot of money
+
+
+Sentence:  See if you can <u>hail a cab</u>. I don't want to walk home in the rain.
+Definition:  to signal to a taxi that you want to be picked up.
+Annotation: signal to a taxi
+
+
+Sentence:  She's <u>in a spin</u> over the arrangements for the party.
+Definition:  to be very anxious and confused
+Annotation: anxious
+
+
+Sentence:  Have you got time for a little bit of a <u>shaggy dog story</u>?
+Definition:  a kind of funny story that relies for its humor on its length and its sudden ridiculous ending
+Annotation: ridiculous story
+
+
+Sentence:  There is a lot of lip service in fighting corruption and there is need to <u>crack the whip</u>.
+Definition:  to use your authority to make someone work harder, usually by threatening or punishing them
+Annotation: make someone work harder
+
+
+Sentence:  I should probably just <u>nip this in the bud</u>?
+Definition:  to put an end to something before it develops into something larger
+Annotation: put an end to it before it develops into something larger
+
+
+Sentence:  Isn't it amazing how those unexplained #miracles present themselves <u>just in the nick of time</u>
+Definition:  at the last possible moment.
+Annotation: at the last possible moment.
+
+
+Sentence:  They seemed pretty <u>par for the course</u> for this kind of thing
+Definition:  if the way something happens or is done is par for the course, it happens or is done as you would expect,
+especially when you do not think this is very good
+Annotation: as you would expect
+
+
+Sentence:  Why should I <u>bail them out</u> with the hard earned money from my unemployment check?
+Definition:  to rescue someone or something from trouble or difficulty
+Annotation: rescue someone from trouble
+
+
+Sentence:  Oh god i go to school today so many people are gonna <u>bombard me with questions</u>
+Definition:  to ask someone many questions, one after another
+Annotation: ask someone many questions
+
+
+Sentence:  Love a <u>golden oldie</u> @Soph_Walks @teganlea.
+Definition:  a record that was very popular in the past and that people still know and like today
+Annotation: a record that was very popular in the past
+
+
+Sentence:   I know that God will be my <u>tower of strength</u>
+Definition:  a person who can always be depended on to provide support and encouragement, especially in times of trouble.
+Annotation: person who can always be depended on to provide support and encouragement, especially in times of trouble
+
+
+Sentence:   All dressed up for #weston santa claus parade with a little <u>fire in the belly</u>!
+Definition:  if you have fire in your belly, you are ready to fight with energy and determination for what you believe is right
+Annotation: energy and determination
+
+
+Sentence:  You've got to <u>hoe your own row</u>
+Definition:  Rur. to mind one's own business.
+Annotation: mind one's own business.
+
+
+Sentence:  Rams ready to <u>wing it</u>
+Definition:  to do the best that you can in a situation that you are not prepared for .
+Annotation: do the best that you can not prepared
+
+
+Sentence:  <u>Stand on your own two feet</u>. Be comfortable with being alone.
+Definition:  to act in an independent and forthright manner.
+Annotation: act in an independent and forthright manner
+
+
+Sentence:  @cengle54 I don't want to <u>upset the applecart</u> ...
+Definition:  to cause trouble, especially by spoiling someone's plans
+Annotation: cause trouble
+
+
+Sentence:  <u>Scarce as hen's teeth </u>here in NZ.
+Definition:  Cliché to be very difficult or impossible to find; seldom found.
+Annotation: impossible to find
+
+
+Sentence:   It’s a beautiful morning with a slight <u>nip in the air</u>.
+Definition:  if there is a nip in the air, the air is cold
+Annotation: cold
+
+
+Sentence:   I'm going to <u>ensconce myself in </u>christmas this weekend.
+Definition:  Fig. to establish oneself in something; to settle oneself into something; to place oneself firmly into something.
+Annotation: settle oneself into
+
+
+Sentence:  I hope I get to <u>cross swords with</u> him
+Definition:  to argue with someone
+Annotation: argue with
+
+
+Sentence:   Feel like I'm getting the <u>dreaded lurgy</u>, typical a week before my #christmas party! :-(
+Definition:  an illness that is not serious but passes easily from person to person
+Annotation: illness that is not serious but passes easily from person to person
+
+
+Sentence:  Party time with my <u>bosom buddy</u>
+Definition:  a close friend; one's closest friend.
+Annotation: closest friend
+
+
+Sentence:   Don't <u>bark up the wrong tree</u>
+Definition:  Fig. to make the wrong choice; to ask the wrong person; to follow the wrong course. (Alludes to a dog in pursuit of an animal, where the animal is in one tree and the dog is barking at another tree.)
+Annotation: follow the wrong course
+
+
+Sentence:  Liberty, when it begins to <u>take root</u>, is a plant of rapid growth
+Definition:  to become established take hold
+Annotation: take hold
+
+
+Sentence:  Best <u>bib and tucker</u> tonight at Grosvenor House
+Definition:  the best or most formal clothes that you own
+Annotation: most formal clothes
+
+
+Sentence:  Here she is <u>in situ</u>!!
+Definition:  if something is in situ, it is in its original place
+Annotation: in its original place
+
+
+Sentence:   I could<u> be off base</u> on severity. We'll see.
+Definition:  to be wrong
+Annotation: wrong
+
+
+Sentence:  The guilty <u>get away scot free</u> while the innocent suffer.
+Definition:  to avoid the punishment that you deserve or expect
+Annotation: avoid punishment
+
+
+Sentence:   You've heard it <u>from the horse's mouth</u>.
+Definition:  Fig. from an authoritative or dependable source.
+Annotation: from an authoritative source
+
+
+Sentence:   Put a Hello Kitty sticker on the case and really <u>dive in with both feet. :)</u>
+Definition:  Fig. to become completely involved with something quickly, especially something new.
+Annotation: become completely involved 
+
+
+Sentence:  This is a <u>flip-flop</u> that is a disappointment for teachers
+Definition:  a complete change, especially from one decision or opinion to another
+Annotation: complete change
+
+
+Sentence:  <u>red carpet treatment</u> for you!!!
+Definition:  Fig. very special treatment; royal treatment.
+Annotation: very special treatment
+
+
+Sentence:   Before your <u>dash away</u> for winter holidays, make sure you come by for our Winter Dash Dec.12
+Definition:  to run away; to leave in a hurry.
+Annotation: leave
+
+
+Sentence:   I've <u>hit a plateau</u>
+Definition:  Fig. to reach a higher level of activity, sales, production, output, etc., and then stop and remain unchanged for a time.
+Annotation: reach a level of activity and remain unchanged for a time
+
+
+Sentence:   I would <u>jump through hoops</u> for you
+Definition:  to do a lot of extra things so you can have or do something you want
+Annotation: do a lot of extra things
+
+
+Sentence:  Some Thoughts to <u>Run Up the Flagpole</u>
+Definition:  to tell people about an idea in order to see what they think of it
+Annotation: tell people about in order to see what they think 
+
+
+Sentence:  He is <u>as proud as a peacock</u>
+Definition:  overly proud; vain.
+Annotation: overly proud
+
+
+Sentence:  Hate someone thinking they have the <u>upper hand</u> on me
+Definition:  Fig. a position superior to someone; the advantage of someone.
+Annotation: position superior
+
+
+Sentence:  Don't stop <u>till the fat lady sings</u>!!
+Definition:  Fig. at the end; a long time from now.
+Annotation: at the end
+
+
+Sentence:  Make sure you maximize <u>the fudge factor</u>.
+Definition:  Fig. a margin of error
+Annotation: margin of error
+
+
+Sentence:   EPA rules <u>draw fire</u>.
+Definition:  to attract criticism
+Annotation: attract criticism
+
+
+Sentence:  Eye Opener: New protests <u>flare up</u> over deadly police force
+Definition:  to happen suddenly
+Annotation: happen suddenly
+
+
+Sentence:  if I could <u>put our friendship in a nutshell</u>, it would probably look something like this.
+Definition:  Fig. to state something very concisely.
+Annotation: state something very concisely
+
+
+Sentence:  Yeah I don’t <u>pester the editorial team with</u> always changing headlines.
+Definition:  to annoy someone with something.
+Annotation: annoy
+
+
+Sentence:   Here comes the <u>back seat driver</u>.
+Definition:  Fig. an annoying passenger who tells the driver how to drive; someone who tells others how to do things.
+Annotation: annoying passenger who tells the driver how to drive
+
+
+Sentence:  Our love grows for everything we give attention to. Don't look at life with a <u>fleeting glance</u>. Observe it with full intensity.
+Definition:  Fig. a quick glance; a very brief look.
+Annotation: quick glance
+
+
+Sentence:  There was <u>a ripple of protest </u>from British academics tho.
+Definition:  quiet remarks protesting something; a smallamount of subdued protest.
+Annotation: small amount of subdued protest.
+
+
+Sentence:   Thank you for coming on such <u>short notice</u>!
+Definition:  quickly and without a timely notification of other people; with very little lead time.
+Annotation: little lead time
+
+
+Sentence:  Always <u>put on a front</u> & act like you're doing good, then they won't have anything to say.
+Definition:  Fig. to appear to be brave (even if one is not).
+Annotation: appear to be brave
+
+
+Sentence:  Did you guys really have to <u>muddle up @_icze4r 's mentions with</u> gender insults? IDK if I even have the patience to sift through all of it.
+Definition:  to mix something up; to make something confusing
+Annotation: mix up
+
+
+Sentence:  This powerful carpet stain remover will <u>knock spots off</u> the leading brands.
+Definition:  to be very much better than someone or something else.
+Annotation: be very much better than
+
+
+Sentence:  She just has to <u>take it on the chin</u>, just like her cousin probably does.
+Definition:  Lit. to stand up to something adverse,such as criticism. (Fig. on taking a directpunch to the head in boxing
+Annotation: stand up to
+
+
+Sentence:  It shines its light for all to see & allows ships to come & go <u>of their own accord</u>.
+Definition:  by one's own choice, without coercion.
+Annotation: by one's own choice
+
+
+Sentence:  Mmmm .... I love <u>off-the-beaten-path</u> places. Sounds like paradise.
+Definition:  not known or popular with many people offthe beaten track
+Annotation: not known
+
+
+Sentence:  Dude did you hear about the new 48 packs, they're <u>all the rage</u> right now.
+Definition:  to be very fashionable
+Annotation: very fashionable
+
+
+Sentence:  live tweet : me and Morgan are <u>dead meat</u> in the morning.
+Definition:  Fig. dead; as good as dead. (Usually an exaggeration.)
+Annotation: as good as dead
+
+
+Sentence:   I know Mariota's gonna win the Heisman, but to me Gordon has been more impressive this year <u>by a hair</u>.
+Definition:  Fig. just barely; by a very small distance.
+Annotation: by a very small distance
+
+
+Sentence:  Leaving Twitter with a <u>heavy heart</u> tonight. Ya'll be safe out there.
+Definition:  Cliché in a sad or miserable state, unhappily
+Annotation: miserable state
+
+
+Sentence:  I didn't loose a friend , he lost himself and now he's gone <u>out of the blue</u> without contact ,tragic.
+Definition:  if something happens out of the blue, it happens suddenly and you are not expecting it
+Annotation: suddenly
+
+
+Sentence:  Think I started getting ready a little early. <u>Eager beaver</u>!! Too excited hahaha.
+Definition:  someone who is very enthusiastic; someone who works very hard
+Annotation: very enthusiastic
+
+
+Sentence:  Boy your dad was <u>in rare form with</u> them today.
+Definition:  Fig. well prepared for a good performance; at one's best.
+Annotation: at one's best.
+
+
+Sentence:  if I was <u>in your shoes</u> I'd probably hate too.
+Definition:  to be in the same situation as someone else, especially an unpleasant situation
+Annotation: in the same situation
+
+
+Sentence:  Within a system which denies the existence of basic human rights, fear tends to be <u>the order of the day</u>
+Definition:  something necessary or usual at a certain time
+Annotation: usual
+
+
+Sentence:  you need to <u>get your nose out of my business</u> dude ..
+Definition:  Fig. to stop interfering in someone else's business; to mind one'sown business.
+Annotation: to mind one's own business
+
+
+Sentence:  This <u>shook me up</u>.
+Definition:  upset; shocked.
+Annotation: upset
+
+
+Sentence:  We <u>run a tight ship</u> at Amazon.
+Definition:  to run a ship or an organization in an orderly and disciplined manner.
+Annotation: run an organization in an orderly and disciplined manner
+
+
+Sentence:  You'll be <u>none the wiser</u>.
+Definition:  to still be confused about something, even after it has been explained to you.
+Annotation: still confused
+
+
+Sentence:  Having a boyfriend is cool because I can <u>rope him into</u> helping me do school projects.
+Definition:  Fig. to cause someone to get involved in some project
+Annotation: cause to get involved
+
+
+Sentence:  Lots has changed so please <u>give it a whirl</u>.
+Definition:  to try something.
+Annotation: try
+
+
+Sentence:  isn't Batman like the <u>poster child</u> of White Privilege?
+Definition:  Fig. someone who is a classic example of a state or type of person.
+Annotation: classic example
+
+
+Sentence:  I never did <u>pal around </u>with actresses.
+Definition:  to associate with someone as a good friend.
+Annotation: associate with as a good friend
+
+
+Sentence:   Don't know what to say about tonight's game, I'm <u>a bundle of nerves </u>and have no idea what to expect.
+Definition:  a very nervous person.
+Annotation: nervous
+
+
+Sentence:  What if It Can Only Be Used Once to <u>get you out of a jam,</u>would you make the call?
+Definition:  Fig. to get free from a problem or a bad situation.
+Annotation: get free from a problem
+
+
+Sentence:  Getting up at 7 on a Sunday is not going to <u>be a pretty sight</u>
+Definition:  to not be pleasant to look at.
+Annotation: pleasant
+
+
+Sentence:  Does Farage <u>make it on the hoof</u>?.
+Definition:  (British & Australian) if you make a decision on the hoof, you make itquickly to react to a situation which is happening, and do not have time tothink about it carefully 
+Annotation: make it quickly to react to a situation which is happening
+
+
+Sentence:  Is no need to <u>treat them with kid-gloves</u>.
+Definition:  to deal with someone very gently or carefully.
+Annotation: deal gently
+
+
+Sentence:  He was <u>as meek as a lamb</u>.
+Definition:  [of someone] shy, quiet, and docile.
+Annotation: shy, quiet, and docile
+
+
+Sentence:  Needless to say I don't have <u>green fingers</u> :c I've watered him every other day why you die on me
+Definition:  to be good at keeping plants healthy and making them grow.
+Annotation: good at keeping plants healthy
+
+
+Sentence:  French <u>put a spoke in the wheel </u>of UK Tour fever.
+Definition:  to spoil someone else's plans and stop them from doing something.
+Annotation: spoil plans
+
+
+Sentence:  All I need is <u>tea and sympathy</u>.
+Definition:  kindness and sympathy that you show to someone who is upset.
+Annotation: kindness and sympathy
+
+
+Sentence:  Does your phone <u>ring off the hook</u>, never.
+Definition:  Fig. [for a telephone] to ring incessantly and repeatedly.
+Annotation: ring incessantly
+
+
+Sentence:  Get personal injury clients without being an <u>ambulance chaser</u>.
+Definition:  a lawyer who finds work by persuading people who have beenhurt in accidents to ask for money from the person who injuredthem.
+Annotation: a lawyer who finds work by persuading people who have beenhurt in accidents to ask for money from the person who injuredthem
+
+
+Sentence:  Time to <u>get your ducks in a row</u>.
+Definition:  to organize things well
+Annotation: organize
+
+
+Sentence:  either we smoking, or we drinking, or we <u>at each other's throats</u>.
+Definition:   If two people are at each other's throats, they are arguing angrily, in angry disagreement.
+Annotation: arguing angrily
+
+
+Sentence:   It's a <u>tough row to hoe</u>, @JulieCelina..
+Definition:  a difficult situation to deal with.
+Annotation: difficult situation
+
+
+Sentence:  Please don’t <u>cut your wolf loose </u>on the 17th of March.
+Definition:  to go on a drinking bout; to get drunk.
+Annotation: go on a drinking bout
+
+
+Sentence:  I can not wait to get home from school tomorrow and just <u>conk out</u> 
+Definition:  of a person to go to sleep very quickly 
+Annotation: go to sleep very quickly
+
+
+Sentence:  SBHS must really <u>scrape the bottom of the barrel</u>  when it comes to English teachers 
+Definition:  to use the worst people or things because that is all that is available
+Annotation: use the worst people because that is all that is available
+
+
+Sentence:  You, me, we face to face but we don't <u>see eye to eye</u> . 
+Definition:  if two people see eye to eye, they agree with each other (often negative; often + with ) 
+Annotation: agree with each other
+
+
+Sentence:  Oh god, you've got the best domain name I've ever seen. I <u>seethe with envy</u>  
+Definition:  to be agitated with anger, hatred, scorn, disgust, etc. 
+Annotation: agitated with anger
+
+
+Sentence:  What's in your water; and are you sure someone didn't <u>sell you a bill of goods</u>  on water purity? 
+Definition:  to defraud or deceive someone
+Annotation: defraud
+
+
+Sentence:  I do not enjoy a camping vacation <u>in the rough</u> .  
+Definition:  in a situation that is not comfortable or pleasant.
+Annotation:  that is not comfortable 
+
+
+Sentence:  Who is <u>in the running </u> for Africa’s top bank job? 
+Definition:  of a candidate, potential or likely 
+Annotation: a potential candidate
+
+
+Sentence:  How do you check inequality <u>in the short run</u> ? 
+Definition:  for a short period of time 
+Annotation: for a short period of time
+
+
+Sentence:  Don't get too <u>hot under the collar </u> for Sweden. He said homosexuality was an abnormality. #Eurovision2015 #ESC #SWE 
+Definition:  if someone is hot under the collar, they are angry
+Annotation: angry
+
+
+Sentence:  Hard to <u>square the circle</u>  for Jeb 
+Definition:  to find a good solution to a problem when that seems impossible, especially because the people involved have very different needs or opinions about it 
+Annotation: good solution to a problem when that seems impossible
+
+
+Sentence:  Guess I'm <u>back to square one</u>  
+Definition:  if you are back to square one, you have to start working on a plan from the beginning because your previous attempt failed and the progress you made is now wasted
+Annotation: have to start working on a plan from the beginning and the progress you made is now wasted
+
+
+Sentence:  Remember to <u>square your shoulders</u> , Jerry! 
+Definition:  to show determination and a lack of fear 
+Annotation: show determination and a lack of fear
+
+
+Sentence:  @illiteratum @michaelbd @PaddyJManning Gosh, you really <u>have a bee in your bonnet</u> . I have an opinion. So do you. 
+Definition:  to talk a lot about something you think is important 
+Annotation: talk a lot about something you think is important
+
+
+Sentence:  I had to <u>spill my guts </u> about the broken window.  
+Definition:  to tell someone all about yourself, especially your problems
+Annotation: tell someone all about your problems
+
+
+Sentence:  A journalist or a <u>spin doctor</u> ? Let me think about it. 
+Definition:  someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) 
+Annotation: someone who gives a twisted or deviously deceptive version of an event.
+
+
+Sentence:  You won't <u>spread yourself so thin</u> , perhaps. 
+Definition:  to not have enough people or equipment to do a job well 
+Annotation: not have enough people or equipment to do a job well
+
+
+Sentence:  Well, <u>I swan</u> ! I didn't expect to see you here! 
+Definition:  What a surprise!  
+Annotation: What a surprise!
+
+
+Sentence:  Thank you, <u>I stand corrected.</u> ..but y'all need to correct that page! 
+Definition:  I admit that I was wrong 
+Annotation: I admit that I was wrong
+
+
+Sentence:  Bob is no scholar but he has a lot of <u>horse sense</u> . 
+Definition:  the ability to make good judgments or decisions
+Annotation: the ability to make good judgments or decisions
+
+
+Sentence:  Who wants to <u>kill the goose that lays the golden egg </u> ? ? 
+Definition:  to destroy something that makes a lot of money 
+Annotation: destroy something that makes a lot of money
+
+
+Sentence:  I don't know who will get the promotion. It's <u>up for grabs</u> . 
+Definition:  if something is up for grabs, it is available to anyone who wants to compete for it
+Annotation: available to anyone who wants to compete for it
+
+
+Sentence:  such a dramatic <u>fall from grace </u> 
+Definition:  to do something bad which makes people in authority stop liking you or admiring you 
+Annotation: people in authority stop liking you or admiring you
+
+
+Sentence:  I am just now <u>delving into</u>  a study of the Trojan War. 
+Definition:  to examine or study something carefully; to enter into the examination or study of something. 
+Annotation: enter into the examination of
+
+
+Sentence:  In the end, they had to <u>bow to our demands</u> . 
+Definition:  to yield to someone's demands; 
+Annotation: yield to someone's demands
+
+
+Sentence:  Who would want to <u>plumb the depths </u> of the criminal mind? 
+Definition:  to carefully examine something in order to understand or explain it 
+Annotation: carefully examine something in order to understand or explain
+
+
+Sentence:  Even for an old man. This is <u>more fun than a barrel of monkeys</u> . 
+Definition:  to be very funny or enjoyable 
+Annotation: very enjoyable
+
+
+Sentence:  It's a <u>fur piece</u>  to the library.  
+Definition:  a long distance.  
+Annotation: long distance
+
+
+Sentence:  I'm too old to <u>gad around</u>  like that.  
+Definition:  to go from place to place, having fun. 
+Annotation: to go from place to place, having fun
+
+
+Sentence:  Our new product is <u>gaining ground</u>  against that of our competitor. 
+Definition:  to make progress; to advance; to become more important or popular. 
+Annotation: become more popular
+
+
+Sentence:  Is it normal to <u>get cold feet</u>  about graduation 
+Definition:  to suddenly become too frightened to do something you had planned to do, especially something important like getting married 
+Annotation: suddenly become too frightened to do something you had planned to do
+
+
+Sentence:  That kind of language really <u>gets my blood up</u> . 
+Definition:  Fig. to get someone or oneself angry. (Fixed order.) 
+Annotation: get oneself angry
+
+
+Sentence:  I've got to <u>get my brain in gear</u>  for the meeting this afternoon. 
+Definition:  to make yourself start thinking clearly and effectively 
+Annotation: start thinking clearly 
+
+
+Sentence:  tennis season's <u>in full swing</u> 
+Definition:  at the peak of activity
+Annotation: at the peak of activity
+
+
+Sentence:  Let's <u>get down to brass tacks</u> . 
+Definition:  Fig. to begin to talk about important things
+Annotation: begin to talk about important things
+
+
+Sentence:  Do you <u>get your kicks</u>  from this sort of thing?  
+Definition:  Fig. to get pleasure from someone or something. 
+Annotation: get pleasure
+
+
+Sentence:  <u>Get off you arse</u>  & make your way 
+Definition:  to stop being lazy and start doing something 
+Annotation: stop being lazy
+
+
+Sentence:  <u>Gird up your loins</u>  like a man 
+Definition:  Fig. to get ready, especially for hard work; to prepare oneself (for something). 
+Annotation: get ready for hard work
+
+
+Sentence:  If you <u>get wind of </u> anything suspicious please shout it out on social media. 
+Definition:  to hear a piece of information that someone else was trying to keep secret 
+Annotation: hear a piece of information that someone else was trying to keep secret
+
+
+Sentence:  You sound angy. Did Salman <u>get your goat</u> ? 
+Definition:  to make you very annoyed or angry
+Annotation: make you very annoyed or angry
+
+
+Sentence:  Dining with <u>the movers and shakers</u>  
+Definition:  people who have a lot of power and influence 
+Annotation: people who have a lot of power and influence
+
+
+Sentence:  My Twitter persona and my Facebook persona have an agreement that <u>never the twain shall meet</u> . 
+Definition:  these two things or people will never exist together or agree with each other 
+Annotation: these two things will never exist together
+
+
+Sentence:  be flexible so ya don't <u>get bent out of shape </u> 
+Definition:  to become very angry or upset 
+Annotation: become very angry or upset
+
+
+Sentence:  It is fun just how many plans <u>go pear-shaped</u> in this movie. 
+Definition:  if a plan goes pear-shaped, it fails
+Annotation: fails
+
+
+Sentence:  Leave <u>the black sheep</u> of the family alone.  
+Definition:  someone who is thought to be a bad person by the rest of their family 
+Annotation: someone who is thought to be a bad person by the rest of their family
+
+
+Sentence:  Meet Chris, a 44-year-old heroin dealer with <u>a rap sheet</u>  dating back 25 years.  
+Definition:  information kept by the police about someone's criminal activities 
+Annotation: information kept by the police about someone's criminal activities
+
+
+Sentence:  If you are a food producer, this upcoming offering is <u>tailor-made</u> to help you be more successful 5/19/15. 
+Definition:  to be completely suitable for someone or something
+Annotation: completely suitable
+
+
+Sentence:  Just <u>as a duck takes to water</u> , what can I say? 
+Definition:  easily and naturally.  
+Annotation: easily and naturally
+
+
+Sentence:  This was a great <u>swan song</u>  for @ninadobrev. 
+Definition:  Fig. the last work or performance of a playwright, musician, actor, etc., before death or retirement. 
+Annotation:  last work
+
+
+Sentence:  I'll bring you to the valley you'll <u>stick out like a sore thumb </u> 
+Definition:  Fig. to be very obvious. 
+Annotation: be very obvious
+
+
+Sentence:  Now thats <u>a sight for sore eyes</u> . 
+Definition:  someone or something that you are happy to see
+Annotation: omething that you are happy to see
+
+
+Sentence:  Now I'm really <u>in the soup</u> . 
+Definition:  Fig. in a bad situation, typically: be ~; get [into] ~.
+Annotation: in a bad situation
+
+
+Sentence:  For anything else, make us your first <u>port of call</u> . 
+Definition:  a place where you stop for a short time, especially on a journey
+Annotation: place where you stop
+
+
+Sentence:  Many stories are totally made-up and are made to <u>strain for an effect</u>  of novelty 
+Definition:  to work very hard to try to achieve some effect. 
+Annotation: work very hard to try to achieve some effect
+
+
+Sentence:  So being awake for 36 hours now is really starting to <u>take its toll</u> ! 
+Definition:  to cause harm or suffering
+Annotation: cause harm or suffering
+
+
+Sentence:  <u>Band-Aid s</u> olutions for a homeless Senate worker  
+Definition:  a temporary solution to a problem, or something that seems to be a solution but has no real effect
+Annotation: temporary but no real effect
+
+
+Sentence:  This beauty haul will <u>break the bank</u> . 
+Definition:  Fig. to use up all one's money. (Alludes to casino gambling, in the rare event when a gambler wins more money than the house has on hand.) 
+Annotation: use up all one's money
+
+
+Sentence:  grandma just called Alex <u>a rat fink </u> 
+Definition:  an extremely unpleasant person, or someone who has given secret information about you to the police 
+Annotation: an extremely unpleasant person
+
+
+Sentence:  The day our daughter was born was a real <u>red-letter day </u> for us. 
+Definition:  a day that is very important or very special 
+Annotation: day that is very special
+
+
+Sentence:  Don't buy <u>a pig in a poke</u> . 
+Definition:  something that you buy without knowing if it is good or not 
+Annotation: something without knowing if it is good or not
+
+
+Sentence:  I always feel like such <u>a plain jane</u>  when I wear my glasses outdoors lmao 
+Definition:  a woman or girl who is not attractive
+Annotation: a woman who is not attractive
+
+
+Sentence:  If only I could <u>soup up</u>  this computer to run just a little faster. 
+Definition:  to increase the power of something. 
+Annotation: increase the power of
+
+
+Sentence:  #Ronaldo acting like a stupid <u>prima donna</u> . 
+Definition:  someone who demands to be treated in a special way and is very difficult to please 
+Annotation: someone who demands to be treated in a special way and is very difficult to please
+
+
+Sentence:  So far, I would <u>be batting a thousand </u> on a first date with @djbrandigarcia according to her #FirstDateQuestions 
+Definition:  to do something extremely well and better than you had hoped to do it 
+Annotation: do something extremely well
+
+
+Sentence:  <u>anybody's guess</u>  which would be better for the public 
+Definition:  if a piece of information is anybody's guess, no one knows it 
+Annotation: no one knows
+
+
+Sentence:  I've said all I had to say, <u>the ball is in your court</u> . 
+Definition:  if the ball is in someone's court, they have to do something before any progress can be made in a situation.
+Annotation: ave to do something before any progress can be made
+
+
+Sentence:  @NLJThwaites When <u>the balloon goes up</u>  yes, but on a national level 
+Definition:  if the balloon goes up, a situation suddenly becomes very serious or unpleasant
+Annotation: situation suddenly becomes very serious
+
+
+Sentence:  Exams make what was once an interesting module <u>the bane of your life</u> . 
+Definition:  someone or something that is always causing problems for you and upsetting you 
+Annotation: thing that is always causing problems for you and upsetting you
+
+
+Sentence:  Well, <u>that's a fine how-do-you-do</u> . Don't just stand there. 
+Definition:  That is a terrible situation.  
+Annotation: That is a terrible situation.
+
+
+Sentence:  @LordVotadini @Thisdayinmusic Yes, Bob is <u>a man for all seasons</u> 
+Definition:  a man who is very successful in many different types of activity
+Annotation: a man who is very successful in many different types of activity
+
+
+Sentence:  In America, we’re told that if we work hard, we can make it. If we cut back and <u>save and scrimp</u> , we will succeed.... http://fb.me/7g30frTsa  
+Definition:  to spend very little money, especially because you are saving it to buy something expensive (often + to do sth) 
+Annotation: to spend very little money
+
+
+Sentence:  And thats a <u>tit-for-tat</u> ... Great reply to a moron Finance Minister...  
+Definition:  a tit-for-tat action is something bad that you do to someone because they have done something bad to you (always before noun) 
+Annotation: something bad that you do to someone because they have done something bad to you
+
+
+Sentence:  He also had a <u>cast-iron stomach </u> though so again, you're good. 
+Definition:  Fig. a very strong stomach that can withstand bad food or anything nauseating. 
+Annotation: strong stomach that can withstand bad food 
+
+
+Sentence:  The toxic culture ... is harmful for women, but Fury Road makes a point ... that <u>It’s no picnic</u>  for men, either. 
+Definition:  Inf. There is nothing easy or pleasant about it. 
+Annotation:  nothing easy or pleasant about it
+
+
+Sentence:  What they fail to realise is they also insult a great many other people at the same time. Will <u>come home to roost</u> . 
+Definition:  to cause problems for you, said of problems that result from your own mistakes, and sometimes used with chickens 
+Annotation: cause problems for you result from your own mistakes
+
+
+Sentence:  French and British police are working <u>in harness</u> to solve the problem. 
+Definition:  if two or more people work in harness, they work together to achieve something 
+Annotation: together
+
+
+Sentence:  People <u>harp on </u> Jim Harbaugh’s eccentricities, but we all have them. He just doesn’t hide his: http://on.si.com/1K0FBjQ   
+Definition:  Fig. to keep talking or complaining about someone or something; to refer to someone or something again and again. 
+Annotation: keep complaining about
+
+
+Sentence:  Well I have one <u>pet hate</u> . Judges who use personal dislikes to critique a meal. 
+Definition:  Fig. something that is disliked intensely and is a constant or repeated annoyance. 
+Annotation: thing that is disliked intensely and is a constant or repeated annoyance
+
+
+Sentence:  Okay, everybody. <u>take five </u> 
+Definition:  to take a five-minute rest period
+Annotation: take a five-minute rest period
+
+
+Sentence:  @jeff_gluck2 there's no need to <u>drag someone over the coals</u>  for personal enjoyment 
+Definition:  to speak angrily to someone because they have done something wrong
+Annotation: speak angrily to someone because they have done something wrong
+
+
+Sentence:  I don't cheer too much either. I'm a bit of a <u>cold fish</u> . 
+Definition:  Fig. a person who is distant and unfeeling, typically: act like ~; be ~
+Annotation: person who is distant 
+
+
+Sentence:  That will help <u>settle your stomach</u> . 
+Definition:  to make your stomach feel less upset 
+Annotation: to make your stomach feel less upset
+
+
+Sentence:  @MarkJFinlay that's the spirit. <u>Nail your colors to the mast</u> .
+Definition:  to publicly state your opinions about a subject 
+Annotation: publicly state your opinions about a subject
+
+
+Sentence:  No worries, he already got some matches <u>under his belt</u> 
+Definition:  already experienced or achieved
+Annotation: achieved
+
+
+Sentence:  Eventually one will go <u>under its own steam</u>
+Definition:  Independently, without help, 
+Annotation: Independently
+
