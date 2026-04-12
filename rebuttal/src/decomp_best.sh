@@ -16,10 +16,10 @@ layer=23
 
 mkdir -p "$save_dir"
 
-python /Users/mmi/Documents/projects/idioms_decomposability/decomp_code/idioms_decomposability/decomp_measure/src/decomp_v2.py \
+python decomp_measure/src/decomp_v2.py \
     --model_name "bert-large-uncased" \
     --dataset_name "impli" \
-    --dataset_path "/Users/mmi/Documents/projects/idioms_decomposability/decomp_code/idioms_decomposability/data/processed/checked_manual_e_w_cql.csv" \
+    --dataset_path "data/processed/checked_manual_e_w_cql.csv" \
     --sim_func "$sim" \
     --agg_metric "$y" \
     --layer $layer \
