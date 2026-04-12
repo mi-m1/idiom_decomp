@@ -4,18 +4,6 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 import numpy as np
 
-# df = pd.read_csv("decomp_measure/scores/impli/google-bert_bert-large-cased/2025-12-22_19:16:23/impli_wasser_gini_bert-large-cased.csv")
-
-# df = pd.read_csv("decomp_measure/scores/impli_layers/google-bert_bert-large-cased/layer_1/2025-12-23_12:34:45/impli_layers_wasser_gini_bert-large-cased.csv")
-# df = pd.read_csv("/Users/mmi/Documents/projects/idioms_decomposability/decomp_code/idioms_decomposability/decomp_measure/scores/impli_layers/answerdotai_ModernBERT-base/2025-12-25_02:34:31/layer_0/impli_wasser_gini_ModernBERT-base.csv")
-
-# model = "answerdotai_ModernBERT-large"
-# layer = "layer_1"
-# condition = "wasser_gini"
-
-# df = pd.read_csv(f"decomp_measure/scores/impli_layers/{model}/2025-12-25_02:34:31/{layer}/impli_{condition}_ModernBERT-large.csv")
-# sns.stripplot(data=df, y="decomp_score", )
-# plt.show()
 
 def find_score_file_layers(project_dir, dataset, model, layer, sim, agg):
     model_dir = model.replace("/", "_")
