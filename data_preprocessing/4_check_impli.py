@@ -3,7 +3,7 @@ import pandas as pd
 
 # check extracted idioms is actually in the sentence
 
-df = pd.read_csv('/Users/mmi/Documents/projects/idioms_decomposability/decomp_code/idioms_decomposability/data/processed/checked_baseFrom_gpt-5.1-2025-11-13_gpt-5.1-2025-11-13_manual_e.csv')
+df = pd.read_csv('data/processed/checked_baseFrom_gpt-5.1-2025-11-13_gpt-5.1-2025-11-13_manual_e.csv')
 
 def check_extraction(sentence, extracted_idiom):
 
