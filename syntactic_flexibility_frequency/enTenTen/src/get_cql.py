@@ -12,8 +12,8 @@ import pyinflect
 
 tqdm.pandas()
 
-USERNAME = 'golzar.atefi'
-API_KEY = '7ca75ee0c599b2bebefd24fa4c787121'
+USERNAME = 'YOUR_USERNAME'
+API_KEY = 'API_KEY'
 base_url = 'https://api.sketchengine.eu/bonito/run.cgi'
 
 def process_impli(row):

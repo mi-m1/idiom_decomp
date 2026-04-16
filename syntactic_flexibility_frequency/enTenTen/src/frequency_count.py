@@ -15,7 +15,7 @@ import pandas as pd
 
 tqdm.pandas()
 
-# USERNAME = 'golz.atefi'
+# USERNAME = 'YOUR_USERNAME'
 # API_KEY = '12345'
 base_url = 'https://api.sketchengine.eu/bonito/run.cgi'
 

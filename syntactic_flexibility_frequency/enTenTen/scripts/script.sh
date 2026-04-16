@@ -16,6 +16,6 @@ python syntax_frequency/src/frequency_count.py \
     "--save_dir" "data/frequencies/liuhwa" \
     "--n_shards" "2" \  
     "--total_data" "data/liuhwa/liuhwa_w_cql.csv" \
-    "--username" "golzar.atefi" \
+    "--username" "YOUR_USERNAME" \
     "--api_key" "86c1d1e1d09cf582469923206482431c" 
 
