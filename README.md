@@ -1,7 +1,9 @@
 # idiom_decomp
-Code repository for the ACL'26 paper:
+Code repository for our ACL'26 paper:
 
-> **Idiom Decomposability: Measuring How Models Learn Figurative Meaning**
+> **Rethinking the Idiomaticity Decomposability Hypothesis: Evidence from Distributional Learning**
+
+Read here: [`📝 Paper`](paper.pdf)
 
 
 ## Data
@@ -116,7 +118,7 @@ If you use this code, please cite our paper:
 
 ```bibtex
 @inproceedings{idiom_decomp_acl26,
-  title     = {},
+  title     = {Rethinking the Idiomaticity Decomposability Hypothesis: Evidence from Distributional Learning},
   author    = {},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
   year      = {2026},
